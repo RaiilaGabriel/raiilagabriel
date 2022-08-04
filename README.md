@@ -2,4 +2,7 @@
 
 Estudante de Engenharia de Computação 👩‍💻👩‍💻
 
-[![Linguagem] (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]
+Linguagens que estou aprendendo no momento!:
+
+![image](https://user-images.githubusercontent.com/106691154/182948233-78be9fab-b7aa-4f7b-bbea-e514dbdb8cbd.png)
+
